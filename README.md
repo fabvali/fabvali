@@ -38,7 +38,7 @@
   <table>
     <tr>
       <td><strong>Nevika AI</strong></td>
-      <td>Character creation platform with custom backend and AI integration</td>
+      <td>Character creation platform with custom backend and AI integration (not registred by me)</td>
     </tr>
     <tr>
       <td><strong>Small project for clients</strong></td>
