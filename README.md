@@ -11,9 +11,7 @@
   </a>
 </div>
 
-<a href="https://github.com/FabVali/FabVali">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabvali&theme=github_dark" style="height: 300px"/></div>
-</a>  
+[![AI Agent Engineering](https://img.shields.io/badge/AI%20Agent%20Engineering-Claude%20Code%20%7C%20Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/v9cwx53h36ig)
 
 <h3 align="center">💻 Languages I Know 💻</h3>
 <div align="center">
