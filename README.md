@@ -11,12 +11,14 @@
   </a>
 </div>
 
+<h3 align="center">🏅 Certificates 🏅</h3>
+
 <div align="center">
   <a href="https://verify.skilljar.com/c/v9cwx53h36ig">
     <img
       src="https://img.shields.io/badge/Claude%20Code-Anthropic-D97757?style=flat&logo=claude&logoColor=white"
       alt="Claude Code — Anthropic verified credential"
-      height="38"
+      height="52"
     >
   </a>
 </div>
