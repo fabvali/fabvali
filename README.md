@@ -11,7 +11,15 @@
   </a>
 </div>
 
-[![AI Agent Engineering](https://img.shields.io/badge/AI%20Agent%20Engineering-Claude%20Code%20%7C%20Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/v9cwx53h36ig)
+<div align="center">
+  <a href="https://verify.skilljar.com/c/v9cwx53h36ig">
+    <img
+      src="https://img.shields.io/badge/Claude%20Code-Anthropic-D97757?style=flat&logo=claude&logoColor=white"
+      alt="Claude Code — Anthropic verified credential"
+      height="38"
+    >
+  </a>
+</div>
 
 <h3 align="center">💻 Languages I Know 💻</h3>
 <div align="center">
