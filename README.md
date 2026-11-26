@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">✨ FabVali ✨</h1>
-<h3 align="center" color=gray>Welcome to my GitHub profile. I like making apps and learning new things by doing them. This is my second Account, scince my old one got unavailable.</h3>
+<h3 align="center" color=gray>Welcome to my GitHub profile. I like making apps and learning new things by doing them.</h3>
 
 -------
 
